@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Machine Learning and AI enthusiast and Competitive Programmer</h3>
 
 
-- 🌱 I’m currently learning ...**ML and AI**
+- 🌱 I’m currently learning **ML and AI**
 - - 👯 I’m looking to collaborate on the same.
 
-- 📫 How to reach me: ...b20087@students.iitmandi.ac.in
+- 📫 How to reach me: b20087@students.iitmandi.ac.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
