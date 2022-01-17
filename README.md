@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+
+
+![Sweety's GitHub stats](https://github-readme-stats.vercel.app/api?username=batman14-s&theme=tokyonight&show_icons=true)
