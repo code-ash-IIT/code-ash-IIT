@@ -7,6 +7,9 @@
 
 - 📫 How to reach me: b20087@students.iitmandi.ac.in
 
+
+    ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-ash-IIT&theme=tokyonight&show_icons=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamashutosh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamashutosh02" height="30" width="40" /></a>
@@ -31,7 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-ash-IIT&theme=tokyonight&show_icons=true)
