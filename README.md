@@ -8,7 +8,7 @@
 - 📫 How to reach me: b20087@students.iitmandi.ac.in
 
 
-    ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-ash-IIT&theme=tokyonight&show_icons=true)
+    ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-ash-IIT&theme=tokyonight&show_icons=true&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
