@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 
 
-![Sweety's GitHub stats](https://github-readme-stats.vercel.app/api?username=batman14-s&theme=tokyonight&show_icons=true)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-ash-IIT&theme=tokyonight&show_icons=true)
