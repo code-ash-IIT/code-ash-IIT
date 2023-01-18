@@ -12,7 +12,7 @@
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.kaggle.com/ashtcoder" target="blank"><img align="center" src="![4844503](https://user-images.githubusercontent.com/76936297/213133903-b1973325-9ecd-4cd8-b8f0-f282d7250b57.png)
+<a href="https://www.kaggle.com/ashtcoder" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76936297/213133903-b1973325-9ecd-4cd8-b8f0-f282d7250b57.png
 " alt="ashtcoder" height="30" width="40" /></a>
 <a href="https://twitter.com/iamashutosh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamashutosh02" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashutosh-sharma-604110208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-sharma-604110208" height="30" width="40" /></a>
