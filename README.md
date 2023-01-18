@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sharma</h1>
-<h3 align="center">A passionate Machine Learning and AI enthusiast and Competitive Programmer</h3>
+<h3 align="center">A passionate Machine Learning and AI enthusiast and Developer and Competitive Programmer and a friend. 🤞🏻</h3>
 
 
 - 🌱 I’m on a path of **ML and AI**
-- - 👯 I’m looking to collaborate on the same.
+- ䷴ I've done dev work -- Android,iOS,web2&3,Flutter and so on so.
+- - 👯 I’m looking to collaborate on any of the above, but choice of 1st option would be nice 🙃.
 
-- 📫 How to reach me: b20087@students.iitmandi.ac.in
+- 📫 How to reach me: b20087@students.iitmandi.ac.in OR ashutoshsh2002@gmail.com
 
     ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-ash-IIT&theme=tokyonight&show_icons=true&count_private=true)
     
