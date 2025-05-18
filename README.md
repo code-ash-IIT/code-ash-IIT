@@ -3,7 +3,8 @@
 
 
 - 🌱 I’m on a path of **AI in Science**
-- ䷴ I've done dev work -- Android,iOS,web2&3,Flutter...
+- **Goal:** to build 4ASI-Model: Physicist, Biologist, Chemist, Engineer.
+- ䷴ I've done dev work too! :) -- Android,iOS,web2&3,Flutter...
 - - 👯 Looking to collaborate on any of the above.
 
 - 📫 How to reach me: b20087@students.iitmandi.ac.in OR ashutoshsh2002@gmail.com
